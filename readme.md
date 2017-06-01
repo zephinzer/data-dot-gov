@@ -1,6 +1,8 @@
 # `data-dot-gov`
 This package is an API wrapper for data from https://data.gov.sg using JavaScript.
 
+[![Build Status](https://travis-ci.org/zephinzer/data-dot-gov.svg?branch=master)](https://travis-ci.org/zephinzer/data-dot-gov)
+
 ## Installation
 Install it via `npm`:
 
