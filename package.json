@@ -1,0 +1,35 @@
+{
+  "name": "data-dot-gov",
+  "version": "0.0.1",
+  "description": "JavaScript SDK for accessing Singapore government data from data.gov.sg",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=development nf start",
+    "test": "istanbul cover _mocha -- ./test/test.helper.js ./test/*.test.js",
+    "test-watch": "npm run test -- --watch"
+  },
+  "keywords": [
+    "data",
+    "singapore",
+    "government",
+    "gov"
+  ],
+  "author": "Joseph Matthias Goh",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.5.0",
+    "superagent": "^3.5.2"
+  },
+  "devDependencies": {
+    "chai": "^4.0.0",
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1",
+    "express": "^4.15.3",
+    "foreman": "^2.0.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.4.2",
+    "rewired": "^1.0.7",
+    "sinon": "^2.3.2",
+    "sinon-chai": "^2.10.0"
+  }
+}
