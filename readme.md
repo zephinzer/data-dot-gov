@@ -1,5 +1,5 @@
 # `data-dot-gov`
-This package exposes APIs from https://data.gov.sg for usage from JavaScript.
+This package is an API wrapper for data from https://data.gov.sg using JavaScript.
 
 ## Installation
 Install it via `npm`:
@@ -172,6 +172,6 @@ To run the tests with watching, use `npm run test-watch`
 
 #### View Coverage Reports
 Run the development server using `npm run dev` and you should be able to access the coverage
-reports at http://localhost:`PORT` where `PORT` is a defined key in your `./.env` file.
+reports at http://localhost:PORT where `PORT` is a defined key in your `./.env` file.
 
 # Cheers!
