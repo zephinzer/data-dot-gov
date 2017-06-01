@@ -4,10 +4,14 @@ This package is an API wrapper for data from https://data.gov.sg using JavaScrip
 [![Build Status](https://travis-ci.org/zephinzer/data-dot-gov.svg?branch=master)](https://travis-ci.org/zephinzer/data-dot-gov)
 
 ## Installation
-Install it via `npm`:
+Install it via `npm` or `yarn`:
 
 ```bash
 # npm install data-dot-gov --save-dev
+#
+# OR
+#
+# yarn add data-dot-gov
 ```
 
 ## Requirements
