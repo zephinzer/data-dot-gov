@@ -10,6 +10,9 @@ Install it via `npm`:
 # npm install data-dot-gov --save-dev
 ```
 
+## Requirements
+Only ES6 compliant Node versions (ie 6.* and above) are supported. Check your Node version with: `node -v`
+
 ## Usage
 
 ### Obtain an API Consumer Key
